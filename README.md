@@ -64,3 +64,5 @@ int main() {
 
     return 0;
 }
+
+![image](https://github.com/user-attachments/assets/8c9447a5-8b7c-4e97-b5f4-30d6c787281c)
