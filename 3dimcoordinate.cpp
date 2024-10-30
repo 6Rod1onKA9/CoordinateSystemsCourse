@@ -52,5 +52,3 @@ int main() {
 
     return 0;
 }
-
-![image](https://github.com/user-attachments/assets/675e14d9-cd43-4b88-96f4-3b7bc61b0870)
